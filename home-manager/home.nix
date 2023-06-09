@@ -21,6 +21,8 @@
     (nerdfonts.override { fonts = [ "FiraCode" ]; })
     tmux
     wget
+    git
+    home-manager
   ];
   home.stateVersion = "22.11";
 }
